@@ -1,30 +1,11 @@
 INFO:     Will watch for changes in these directories: ['/home/workspace']
 INFO:     Uvicorn running on http://0.0.0.0:8000 (Press CTRL+C to quit)
-INFO:     Started reloader process [153] using StatReload
-INFO:     Started server process [155]
+INFO:     Started reloader process [198] using StatReload
+INFO:     Started server process [200]
 INFO:     Waiting for application startup.
 INFO:     Application startup complete.
-INFO:     172.20.0.1:51468 - "HEAD / HTTP/1.1" 405 Method Not Allowed
-INFO:     172.20.0.1:51472 - "GET /api/stories HTTP/1.1" 200 OK
-INFO:     172.20.0.1:51472 - "GET /api/stories HTTP/1.1" 200 OK
-INFO:     172.20.0.1:33342 - "GET /api/stories HTTP/1.1" 200 OK
-INFO:     172.20.0.1:33342 - "GET /api/stories HTTP/1.1" 200 OK
-INFO:     172.20.0.1:33342 - "GET /api/stories HTTP/1.1" 200 OK
-INFO:     172.20.0.1:33342 - "GET /api/stories HTTP/1.1" 200 OK
-INFO:     172.20.0.1:52622 - "OPTIONS /api/stories HTTP/1.1" 200 OK
-INFO:     172.20.0.1:52622 - "POST /api/stories HTTP/1.1" 200 OK
-INFO:     172.20.0.1:52622 - "GET /api/stories HTTP/1.1" 200 OK
-INFO:     172.20.0.1:52622 - "GET /api/chapters?story_id=691df855ac61aaf43c4b7af8 HTTP/1.1" 200 OK
-INFO:     172.20.0.1:52622 - "GET /api/chapters?story_id=691df855ac61aaf43c4b7af8 HTTP/1.1" 200 OK
-INFO:     172.20.0.1:52638 - "OPTIONS /api/chapters HTTP/1.1" 200 OK
-INFO:     172.20.0.1:52638 - "POST /api/chapters HTTP/1.1" 200 OK
-INFO:     172.20.0.1:52638 - "GET /api/chapters?story_id=691df855ac61aaf43c4b7af8 HTTP/1.1" 200 OK
-INFO:     172.20.0.1:52658 - "GET /api/bubbles?chapter_id=691df85bac61aaf43c4b7af9 HTTP/1.1" 200 OK
-INFO:     172.20.0.1:52658 - "GET /api/bubbles?chapter_id=691df85bac61aaf43c4b7af9 HTTP/1.1" 200 OK
-INFO:     172.20.0.1:55768 - "OPTIONS /api/bubbles HTTP/1.1" 200 OK
-INFO:     172.20.0.1:55768 - "POST /api/bubbles HTTP/1.1" 200 OK
-INFO:     172.20.0.1:55768 - "GET /api/bubbles?chapter_id=691df85bac61aaf43c4b7af9 HTTP/1.1" 200 OK
-INFO:     172.20.0.1:55768 - "POST /api/bubbles HTTP/1.1" 200 OK
-INFO:     172.20.0.1:55768 - "GET /api/bubbles?chapter_id=691df85bac61aaf43c4b7af9 HTTP/1.1" 200 OK
-INFO:     172.20.0.1:55792 - "POST /api/bubbles HTTP/1.1" 200 OK
-INFO:     172.20.0.1:55792 - "GET /api/bubbles?chapter_id=691df85bac61aaf43c4b7af9 HTTP/1.1" 200 OK
+INFO:     172.20.0.1:47876 - "HEAD / HTTP/1.1" 405 Method Not Allowed
+INFO:     172.20.0.1:47870 - "GET /api/stories HTTP/1.1" 200 OK
+INFO:     172.20.0.1:47870 - "GET /api/stories HTTP/1.1" 200 OK
+INFO:     172.20.0.1:47870 - "GET /api/stories HTTP/1.1" 200 OK
+INFO:     172.20.0.1:47870 - "GET /api/stories HTTP/1.1" 200 OK
